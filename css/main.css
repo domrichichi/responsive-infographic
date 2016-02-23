@@ -1,15 +1,17 @@
-/*typography*/
-
 html {
   font-family: 'Open Sans', sans-serif;
 }
 
-/*colours*/
+figcaption {
+  color:#E3212F;
+}
+
 
 h1 {
   color:#E3212F;
   text-transform: uppercase;
 }
+
 /*colours*/
 
 
@@ -20,6 +22,8 @@ h1 {
 /*runner*/
 
 /*numbers*/
+
+/*paragraphs*/
 
 .numbers {
   width:80px;
