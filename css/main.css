@@ -1,34 +1,46 @@
 html {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 figcaption {
-  color:#E3212F;
+  color: #e3212f;
 }
 
-
 h1 {
-  color:#E3212F;
+  color: #e3212f;
   text-transform: uppercase;
 }
 
-/*colours*/
-
-
-/*iphones*/
-
-/*bracelet*/
-
-/*runner*/
-
-/*numbers*/
-
-/*paragraphs*/
-
 .numbers {
-  width:80px;
+  width: 80px;
 }
 
-@media only screen and (min-width: 38em) {
+/* pie-graph */
 
+.st0 {
+  fill: #1b1c23;
+}
+
+.st1 {
+  fill: #e2252f;
+}
+
+.st2 {
+  fill: none;
+}
+
+.st3 {
+  fill: #e3212f;
+}
+
+.st5 {
+  font-size: 16.3996px;
+}
+
+.st6 {
+  fill: #231f20;
+}
+
+.st8 {
+  font-size: 12.663px;
 }
